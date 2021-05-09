@@ -1,10 +1,12 @@
-### Hello there, I'm Mundir! 👋
-
- - What I'm working on is the 100 Days of Python Course.
-
- - I'm currently learning the language of Python
-  
- - I'm not really looking for help, however, it'd be nice I received any sort of constructive criticism
+<h1 align="center">Hello there, I'm Mundir <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
 
 
-https://github-readme-stats.vercel.app/api?username=M-undir&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
+I'm a 17-year-old boy that's currently learning the ways of python.
+
+You can contact me via:
+Discord - Mun#7627
+
+- I'm currently attempting a project each day (100-Days-Of-Python)
+
+#### Languages
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">

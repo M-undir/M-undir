@@ -1,12 +1,16 @@
 <h1 align="center">Hello there, I'm Mundir <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
+<h3 align="center">A normal 17 year old aiming to learn more about the programming as the time goes on</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=m-undir&label=Profile%20views&color=0e75b6&style=flat" alt="m-undir" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m-undir" alt="m-undir" /></a> </p>
+
+- 🌱 I’m currently learning **Python**
+
+- 📫 How to reach me **Mun#7627**
 
 
-I'm a 17-year-old boy that's currently learning the ways of python.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-You can contact me via:
-Discord - Mun#7627
-
-- I'm currently attempting a project each day (100-Days-Of-Python)
-
-
-<!-- TODO: Python badge for languages section -->
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=m-undir&show_icons=true&locale=en&layout=compact" alt="m-undir" /></p>
